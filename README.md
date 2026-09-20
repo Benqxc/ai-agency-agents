@@ -9,6 +9,8 @@
 
 ---
 
+> **Note:** this repository is a maintained fork of [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (MIT). Upstream links, sponsor and discussion URLs below intentionally point to the original project; _ud2-specific changes live on top.
+
 ## 🚀 What Is This?
 
 Born from a Reddit thread and months of iteration, **The Agency** is a growing collection of meticulously crafted AI agent personalities. Each agent is:
